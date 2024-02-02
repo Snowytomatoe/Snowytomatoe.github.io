@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family:'Courier New', Courier, monospace;
+  background-color:black;
+  color:white;
+}
+li {
+  list-style:none;
+  margin:7px 
+}
+a {
+  color:white;
+  text-decoration:none;
+}
+nav {
+  display:flex;
+  height:75px;
+  background-color:black;
+  justify-content:center;
+  
+}
+ul{
+  justify-content:space-evenly;
+  display:flex;
+  padding:0px;
+}
+body {
+  margin:0px;
+  text-align:center;
+}
